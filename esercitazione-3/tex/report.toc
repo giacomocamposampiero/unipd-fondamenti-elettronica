@@ -1,0 +1,16 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Esercizio primo}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Calcolare il punto di polarizzazione di ogni transistor: I$_{DQ}$, V$_{GSQ}$, V$_{DSQ}$, trascurando l'effetto di modulazione della lunghezza di canale}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Calcolare g$_m$ e r$_o$ per ogni transistor}{4}{}%
+\contentsline {subsection}{\numberline {1.3}Calcolare il guadagno complessivo dell'amplificatore}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Per quale valore della tensione di uscita Q$_7$ non è più in saturazione? Per quale valore di tensione di uscita Q$_6$ non è più in saturazione?}{5}{}%
+\contentsline {subsection}{\numberline {1.5}Simulare con SPICE il comportamento del circuito, applicando un segnale differenziale puro v$_{id}$ di ampiezza crescente e tracciare il grafico di v$_o$ e v(n4) funzione di v$_{id}$ con v$_{id}$ tra -100 mV e 100 mV}{5}{}%
+\contentsline {subsection}{\numberline {1.6}Simulare con SPICE un segnale di modo comune v$_{cm}$ di ampiezza crescente e tracciare il grafico di v(D2) e v$_o$ funzione di v$_{cm}$ con v$_{cm}$ tra -1V e 1V}{7}{}%
+\contentsline {subsection}{\numberline {1.7}Valutare il guadagno differenziale e il guadagno di modo comune dell'amplificatore con SPICE}{8}{}%
+\contentsline {subsection}{\numberline {1.8}Applicare un segnale differenziale sinusoidale di ampiezza v$_{id}$ = 1 mV, frequenza 1 kHz e graficare il segnale di uscita risultante}{9}{}%
+\contentsline {section}{\numberline {2}Esercizio secondo}{10}{}%
+\contentsline {subsection}{\numberline {2.1}Identificare somma e riporto, dimensionare W per tutti i transistor in modo che le reti di pull-up e pull-down abbiano la stessa conducibilità e simulare con SPICE la caratteristica DC con B=0, A variabile tra 0 e V$_{DD}$}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Applicare all'uscita della somma un condensatore da $100\,$fF, e calcolare la potenza dissipata in uscita nel caso AB commutino simultaneamente da 10 a 00 a 10 con una frequenza di clock pari al proprio numero di matricola}{13}{}%
+\contentsline {subsection}{\numberline {2.3}Mantenere B=0 e simulare con SPICE il transitorio di uscita della somma negata con A che commuta tra 0 e 1 con e senza carico capacitivo}{14}{}%
+\contentsline {subsection}{\numberline {2.4}Ripetere il punto 2.3 dimensionando tutti i transistor con W=6.4$\mu $m, L=0.8$\mu $m. Cosa cambia? Perché?}{15}{}%

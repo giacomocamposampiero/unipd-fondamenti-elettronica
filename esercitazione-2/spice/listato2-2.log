@@ -1,0 +1,28 @@
+Circuit: * Esercizio 2
+
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+.step amp=0.165
+.step amp=0.166
+.step amp=0.167
+.step amp=0.168
+.step amp=0.169
+.step amp=0.17
+
+Date: Tue Dec 29 18:00:35 2020
+Total elapsed time: 0.545 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2135
+traniter = 2128
+tranpoints = 1050
+accept = 1048
+rejected = 2
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1:      15 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 526 bytes object code size  0.1/0.2/[0.1]
+

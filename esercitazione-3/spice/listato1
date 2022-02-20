@@ -1,0 +1,37 @@
+* Esercizio 1
+* alimentazione
+Vdd Vdd 0 2.5
+Vss Vss 0 -2.5
+* current mirror
+M8 N1 N1 Vdd Vdd PMOS40
+M5 N2 N1 Vdd Vdd PMOS40
+Iref N1 Vss 90u
+* load
+M7 Vo N1 Vdd Vdd PMOS40
+* first amp stadium
+M1 N3 - N2 Vdd PMOS20
+M2 N4 + N2 Vdd PMOS20
+M3 N3 N3 Vss Vss NMOS5
+M4 N4 N3 Vss Vss NMOS5
+* second amp stadium
+M6 Vo N4 Vss Vss NMOS10
+* capacitor
+Cc Vo N4 10p
+* input differenziali
+Bi1 + 0 V=V(id)/2
+Bi2 - 0 V=-V(id)/2
+* portanti
+Vcm cm 0 AC SINE(0 1m 1k)
+Vid id 0 AC SINE(0 1m 1k)
+.model NMOS5 NMOS LEVEL=1 VTO=0.7 KP=160u W=5u L=0.8u LAMBDA=0.1
+.model NMOS10 NMOS LEVEL=1 VTO=0.7 KP=160u W=10u L=0.8u LAMBDA=0.1
+.model PMOS20 PMOS LEVEL=1 VTO=-0.8 KP=40u W=20u L=0.8u LAMBDA=0.1
+.model PMOS40 PMOS LEVEL=1 VTO=-0.8 KP=40u W=40u L=0.8u LAMBDA=0.1
+*.ac DEC 10 1 100k
+*.dc param amp -100m 100m 1m
+*.step param amp list 100u 500u 1m 2m 10m 50m 100m
+*.step param amp list 1m 10m 50m 100m 250m 500m 750m 1
+*.tran 0 1.5m
+.op
+.backanno
+.end

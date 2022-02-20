@@ -1,0 +1,7 @@
+Questionable use of curly braces in "i vo 0 {0.168*v(g)}"
+    Error: undefined symbol in: "0.168*[v](g)"
+Circuit: * C:\Users\giaco\Desktop\es2FdE\spice\Draft1.asc
+
+Error on line 2 : i vo 0 (0.168*v(g))
+	 Unknown parameter "*v"
+Fatal Error: No analysis request found.

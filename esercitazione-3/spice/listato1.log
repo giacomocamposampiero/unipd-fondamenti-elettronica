@@ -1,0 +1,74 @@
+Circuit: * Esercizio 1
+
+WARNING: Less than two connections to node CM.  This node is used by VCM.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Width narrower than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Width narrower than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- MOSFET Transistors ---
+Name:          m6          m4          m3          m2          m1
+Model:       nmos10       nmos5       nmos5      pmos20      pmos20
+Id:          1.03e-04    4.64e-05    4.64e-05   -4.64e-05   -4.64e-05
+Vgs:         9.91e-01    9.91e-01    9.91e-01   -1.07e+00   -1.07e+00
+Vds:         2.26e+00    9.91e-01    9.91e-01   -2.58e+00   -2.58e+00
+Vbs:         0.00e+00    0.00e+00    0.00e+00    1.43e+00    1.43e+00
+Vth:         7.00e-01    7.00e-01    7.00e-01   -8.00e-01   -8.00e-01
+Vdsat:       2.91e-01    2.91e-01    2.91e-01   -2.72e-01   -2.72e-01
+Gm:          7.12e-04    3.19e-04    3.19e-04    3.42e-04    3.42e-04
+Gds:         8.44e-06    4.22e-06    4.22e-06    3.69e-06    3.69e-06
+Gmb:         0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbd:         0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:         0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgdov:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgbov:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgs:         0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgd:         0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgb:         0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+
+Name:          m7          m5          m8
+Model:       pmos40      pmos40      pmos40
+Id:         -1.03e-04   -9.28e-05   -9.00e-05
+Vgs:        -1.08e+00   -1.08e+00   -1.08e+00
+Vds:        -2.74e+00   -1.43e+00   -1.08e+00
+Vbs:         0.00e+00    0.00e+00    0.00e+00
+Vth:        -8.00e-01   -8.00e-01   -8.00e-01
+Vdsat:      -2.85e-01   -2.85e-01   -2.85e-01
+Gm:          7.26e-04    6.51e-04    6.32e-04
+Gds:         8.12e-06    8.12e-06    8.12e-06
+Gmb:         0.00e+00    0.00e+00    0.00e+00
+Cbd:         0.00e+00    0.00e+00    0.00e+00
+Cbs:         0.00e+00    0.00e+00    0.00e+00
+Cgsov:       0.00e+00    0.00e+00    0.00e+00
+Cgdov:       0.00e+00    0.00e+00    0.00e+00
+Cgbov:       0.00e+00    0.00e+00    0.00e+00
+Cgs:         0.00e+00    0.00e+00    0.00e+00
+Cgd:         0.00e+00    0.00e+00    0.00e+00
+Cgb:         0.00e+00    0.00e+00    0.00e+00
+
+
+
+Date: Fri Jan 15 21:47:09 2021
+Total elapsed time: 0.022 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 11
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 17
+fillins = 2
+solver = Normal
+Matrix Compiler1: 900 bytes object code size
+Matrix Compiler2: 1.46 KB object code size

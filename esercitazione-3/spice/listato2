@@ -1,0 +1,30 @@
+* Esercizio 2
+* pull-up riporto
+M1 riporto A Vdd Vdd PMOS
+M2 riporto B Vdd Vdd PMOS
+* pull-down riporto
+M6 riporto A N3 0 NMOS2
+M7 N3 B 0 0 NMOS2
+* pull-up somma
+M3 somma riporto Vdd Vdd PMOS
+M4 N1 A Vdd Vdd PMOS2
+M5 somma B N1 Vdd PMOS2
+* pull-down somma
+M10 somma riporto N2 0 NMOS2
+M8 N2 A 0 0 NMOS2
+M9 N2 B 0 0 NMOS2
+* Vdd e segnali
+Vdd Vdd 0 2.5
+Va A 0 PULSE(0 2.5 1p 1p 1p 100n 200n)
+Vb B 0 0
+* capacità
+C1 somma 0 {cap}
+.model NMOS NMOS LEVEL=1 VTO=0.7 KP=160u W=0.8u L=0.8u LAMBDA=0.1
+.model NMOS2 NMOS LEVEL=1 VTO=0.7 KP=160u W=1.6u L=0.8u LAMBDA=0.1
+.model PMOS PMOS LEVEL=1 VTO=-0.7 KP=40u W=3.2u L=0.8u LAMBDA=0.1
+.model PMOS2 PMOS LEVEL=1 VTO=-0.7 KP=40u W=6.4u L=0.8u LAMBDA=0.1
+.step param cap 0 100f 100f
+.tran 0 841.5n
+*.dc param in 0 2.5 10m
+.backanno
+.end

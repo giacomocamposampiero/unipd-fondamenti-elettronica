@@ -1,0 +1,13 @@
+* listato1
+Vin N1 0 DC 0 AC 1 sin(0 10mV 10kHz 0 0 0)
+VDD N2 0 10V
+VSS N3 0 -10V
+XU1 Vp Vn N2 N3 Vo LT1028
+C2 Vp N1 100n
+R2 Vp 0 11871.8
+R4 Vn Vo 10k
+R3 Vn 0 1k
+.lib LTC.lib
+.ac DEC 10 1 100k
+.backanno
+.end

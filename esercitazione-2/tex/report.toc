@@ -1,0 +1,32 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Esercizio primo}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Tracciare i grafici di V$_o$ vs V$_1$ e V$_x$ vs V$_1$ tra -12V e +12V, calcolati analiticamente}{3}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Ipotesi D$_1$ spento, D$_2$ spento e D$_z$ spento}{3}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Ipotesi D$_1$ spento, D$_2$ acceso e D$_z$ spento}{4}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}Ipotesi D$_1$ spento, D$_2$ acceso e D$_z$ acceso}{4}{}%
+\contentsline {subsubsection}{\numberline {1.1.4}Ipotesi D$_1$ acceso, D$_2$ spento e D$_z$ in breakdown}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.5}Ipotesi D$_1$ acceso, D$_2$ spento e D$_z$ spento}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Simulare le caratteristiche V$_{out}$ vs V$_1$ e V$_x$ vs V$_1$ tra -12V e +12V con SPICE}{7}{}%
+\contentsline {subsection}{\numberline {1.3}Qual e' la massima potenza dissipata dal diodo Zener?}{8}{}%
+\contentsline {section}{\numberline {2}Esercizio secondo}{9}{}%
+\contentsline {subsection}{\numberline {2.1}Porre R$_{G1}$ pari al proprio numero di matricola, R$_{G2}$=$\infty $}{9}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Calcolare analiticamente il punto di polarizzazione DC del transistor}{9}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Calcolare i parametri del il modello per piccolo segnale}{10}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Disegnare il modello per piccolo segnale dell'amplificatore e calcolare il guadagno in tensione, R$_{in}$ e R$_o$.}{10}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Simulare con SPICE il punto operativo del circuito e verificare i valori trovati analiticamente}{12}{}%
+\contentsline {subsubsection}{\numberline {2.1.5}Con f(v$_I$) = 1kHz, simulare con SPICE 10 periodi di v$_I$, v$_o$; simulare il guadagno e confrontare il valore ottenuto con i risultati analitici}{13}{}%
+\contentsline {subsubsection}{\numberline {2.1.6}Ripetere il punto 1.5 con ampiezza del segnale v$_I$ pari a 100 mV: spiegare cosa avviene}{14}{}%
+\contentsline {subsubsection}{\numberline {2.1.7}Calcolare e verificare tramite simulazioni il massimo valore dell'ampiezza del segnale v$_I$ che garantisce una risposta lineare dell'amplificatore}{15}{}%
+\contentsline {subsection}{\numberline {2.2}Porre R$_{G1}$=R$_{G2}$ pari al proprio numero di matricola}{16}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Calcolare analiticamente il punto di polarizzazione DC del transistor}{16}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Calcolare i parametri del il modello per piccolo segnale}{17}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Disegnare il modello per piccolo segnale dell'amplificatore e calcolare il guadagno in tensione, R$_{in}$ e R$_o$.}{17}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Simulare con SPICE il punto operativo del circuito e verificare i valori trovati analiticamente}{19}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}Con f(v$_I$) = 1kHz, simulare con SPICE 10 periodi di v$_I$, v$_o$; simulare il guadagno e confrontare il valore ottenuto con i risultati analitici}{20}{}%
+\contentsline {subsubsection}{\numberline {2.2.6}Calcolare e verificare tramite simulazioni il massimo valore dell'ampiezza del segnale v$_I$ che garantisce una risposta lineare dell'amplificatore}{21}{}%
+\contentsline {subsection}{\numberline {2.3}Porre W=L=10$\mu $m, k'$_n$=8mA/V$^2$, V$_{tn}$=1V}{22}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Riprogettare il circuito (R$_{G1}$, R$_{G2}$ e R$_D$) in modo che la corrente di drain sia I$_D$=1mA, che V$_{DSQ}$ = V$_{OV}$ + 2V, e che la corrente attraverso R$_{G1}$ e R$_{G2}$ sia 100nA}{22}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Simulare con SPICE il punto operativo del circuito e verificare i valori trovati analiticamente}{23}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Con f(v$_I$) = 1 kHz, simulare con SPICE 10 periodi di v$_I$, v$_{out}$; simulare Av e confrontare il valore ottenuto con i risultati analitici}{24}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Verificare, solo tramite simulazioni, il massimo valore dell'ampiezza del segnale v$_I$ che garantisce una risposta lineare dell'amplificatore}{25}{}%
+\contentsline {subsection}{\numberline {2.4}Confrontare A$_v$, R$_{in}$ e R$_{out}$ nei tre amplificatori.}{26}{}%

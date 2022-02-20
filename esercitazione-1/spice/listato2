@@ -1,0 +1,11 @@
+* C:\Users\giaco\Desktop\es1FdE\spice\esercizio2.asc
+R1 N2 N1 10k
+R2 N3 N4 54945
+V1 N1 0 -15V
+V2 N4 0 15V
+I1 N3 N2 {temperatura*1u}
+Eopamp Vo 0 0 N3 1000000
+Rf Vo N3 10k
+.dc param temperatura 273 373 1
+.backanno
+.end

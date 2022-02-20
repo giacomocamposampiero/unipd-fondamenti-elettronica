@@ -1,0 +1,16 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Esercizio primo}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Calcolare analiticamente il guadagno in tensione e la frequenza di taglio inferiore considerando l'amplificatore operazionale ideale}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Simulare la forma d'onda di uscita per un segnale sinusoidale di ingresso di 10 mV, a 1 Hz, 10 Hz, 10kHz}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Simulare il diagramma di Bode dell'ampiezza tra 1Hz e 100 kHz}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Per quale ampiezza del segnale di ingresso l'uscita satura? Simulare la forma d'onda di uscita per un segnale di ingresso di ampiezza pari a 2 volte il valore trovato}{5}{}%
+\contentsline {subsection}{\numberline {1.5}Ripetere sostituendo a R2 una resistenza di valore pari al vostro numero di matricola diviso 100}{6}{}%
+\contentsline {subsection}{\numberline {1.6}Qual e' la potenza assorbita dall'alimentazione nei due casi?}{8}{}%
+\contentsline {section}{\numberline {2}Esercizio secondo}{9}{}%
+\contentsline {subsection}{\numberline {2.1}Dato il valore di R1, trovare il valore di R2 che permette di ottenere il fattore di conversione desiderato}{9}{}%
+\contentsline {subsection}{\numberline {2.2}Sostituite a Rf il vostro numero di matricola diviso per 100 e modificare il circuito in modo da ottenere 10mV/grado Celsius in uscita}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Scrivere il listato SPICE .cir del circuito, commentarlo; definire I1 come generatore di corrente comandato da un parametro "temperatura". Graficare la tensione di uscita simulata da SPICE nell'intervallo da 0 a 100 gradi Celsius}{11}{}%
+\contentsline {section}{\numberline {3}Esercizio terzo}{12}{}%
+\contentsline {subsection}{\numberline {3.1}Dimostrare che la funzione di trasferimento del circuito e' quella riportata nella tabella}{12}{}%
+\contentsline {subsection}{\numberline {3.2}Simulare con SPICE il diagramma di Bode dell'ampiezza e della fase, sostituiti i valori di resistenza e capacita' con i valori dati.}{13}{}%
+\contentsline {subsection}{\numberline {3.3}Simulare con SPICE il segnale di uscita corrispondente ad un ingresso sinusoidale di ampiezza 100 mV con frequenza di 100Hz; 1kHz; 10kHz; 10MHz}{14}{}%

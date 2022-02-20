@@ -1,0 +1,19 @@
+* Esercizio 2
+* input
+Vi in 0 AC SINE(0 {amp} 1K)
+Ri N3 in 10k
+C1 vG N3 1000u
+* RG
+RG1 vD vG 10Meg
+RG2 0 vG 15Meg
+* altri componenti
+Rd vD N1 2.5k
+R3 0 out 1k
+C2 out vD 1000u
+Vdd N1 0 5
+M1 vD vG 0 0 NMOS
+.model NMOS NMOS LEVEL=1 VTO=1 KP=8m W=10u L=10u
+.step param amp 390m 450m 10m
+.tran 0 1m
+.backanno
+.end

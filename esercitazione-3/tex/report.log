@@ -1,0 +1,443 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.1)  20 JAN 2021 19:47
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen141
+))
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count183
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count184
+\leftroot@=\count185
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count186
+\DOTSCASE@=\count187
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count188
+\c@MaxMatrixCols=\count189
+\dotsspace@=\muskip16
+\c@parentequation=\count190
+\dspbrk@lvl=\count191
+\tag@help=\toks17
+\row@=\count192
+\column@=\count193
+\maxfields@=\count194
+\andhelp@=\toks18
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count195
+\U@D=\dimen150
+\l@babelnohyphens=\language79
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.l
+df
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count197
+\it@doublequoteactive=\count198
+\it@ISOcompliance=\count199
+))
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks23
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count270
+\l__pdf_internal_box=\box49
+) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen159
+\scratchbox=\box50
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen160
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks25
+)
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \it@ocap on input line 14.
+LaTeX Info: Redefining \it@ccap on input line 14.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 416.83289pt, 90.3375pt)
+* v-part:(T,H,B)=(90.3375pt, 664.37186pt, 90.3375pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=664.37186pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-18.9325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+
+
+(C:\Users\giaco\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(report.toc)
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [1
+
+{C:/Users/giaco/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<../img//ckt1.png, id=12, 733.99219pt x 446.41782pt>
+File: ../img//ckt1.png Graphic file (type png)
+<use ../img//ckt1.png>
+Package pdftex.def Info: ../img//ckt1.png  used on input line 36.
+(pdftex.def)             Requested size: 375.14705pt x 228.16733pt.
+
+[2 <../img//ckt1.png>] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+
+ []
+
+[4]
+<../img//es1-5-n41.png, id=28, 1021.56656pt x 452.4403pt>
+File: ../img//es1-5-n41.png Graphic file (type png)
+<use ../img//es1-5-n41.png>
+Package pdftex.def Info: ../img//es1-5-n41.png  used on input line 218.
+(pdftex.def)             Requested size: 416.83289pt x 184.60425pt.
+<../img//es1-5-out1.png, id=29, 1015.54407pt x 452.4403pt>
+File: ../img//es1-5-out1.png Graphic file (type png)
+<use ../img//es1-5-out1.png>
+Package pdftex.def Info: ../img//es1-5-out1.png  used on input line 224.
+(pdftex.def)             Requested size: 416.83289pt x 185.70193pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] [6 <../img//es1-5-n41.png> <../img//es1-5-out1.png>]
+<../img//es1-6-n4.png, id=38, 1020.06094pt x 453.94594pt>
+File: ../img//es1-6-n4.png Graphic file (type png)
+<use ../img//es1-6-n4.png>
+Package pdftex.def Info: ../img//es1-6-n4.png  used on input line 243.
+(pdftex.def)             Requested size: 375.14705pt x 166.94608pt.
+<../img//es1-6-out.png, id=39, 1017.04968pt x 452.4403pt>
+File: ../img//es1-6-out.png Graphic file (type png)
+<use ../img//es1-6-out.png>
+Package pdftex.def Info: ../img//es1-6-out.png  used on input line 249.
+(pdftex.def)             Requested size: 375.14705pt x 166.8825pt.
+ [7 <../img//es1-6-n4.png> <../img//es1-6-out.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+<../img//es1-7-id.png, id=44, 1025.33063pt x 453.19313pt>
+File: ../img//es1-7-id.png Graphic file (type png)
+<use ../img//es1-7-id.png>
+Package pdftex.def Info: ../img//es1-7-id.png  used on input line 269.
+(pdftex.def)             Requested size: 375.14705pt x 165.81174pt.
+<../img//es1-7-vcm.png, id=45, 1025.33063pt x 453.19313pt>
+File: ../img//es1-7-vcm.png Graphic file (type png)
+<use ../img//es1-7-vcm.png>
+Package pdftex.def Info: ../img//es1-7-vcm.png  used on input line 275.
+(pdftex.def)             Requested size: 375.14705pt x 165.81174pt.
+<../img//es1-8.png, id=46, 1025.33063pt x 453.19313pt>
+File: ../img//es1-8.png Graphic file (type png)
+<use ../img//es1-8.png>
+Package pdftex.def Info: ../img//es1-8.png  used on input line 291.
+(pdftex.def)             Requested size: 416.83289pt x 184.24063pt.
+[8 <../img//es1-7-id.png> <../img//es1-7-vcm.png>] [9 <../img//es1-8.png>]
+<../img//ckt2.png, id=53, 731.73375pt x 451.6875pt>
+File: ../img//ckt2.png Graphic file (type png)
+<use ../img//ckt2.png>
+Package pdftex.def Info: ../img//ckt2.png  used on input line 303.
+(pdftex.def)             Requested size: 291.78174pt x 180.11353pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--311
+
+ []
+
+[10 <../img//ckt2.png>]
+<../img//es2-dimens.png, id=57, 505.13719pt x 469.755pt>
+File: ../img//es2-dimens.png Graphic file (type png)
+<use ../img//es2-dimens.png>
+Package pdftex.def Info: ../img//es2-dimens.png  used on input line 359.
+(pdftex.def)             Requested size: 291.78174pt x 271.34708pt.
+ [11 <../img//es2-dimens.png>]
+<../img//es2-1-somma.png, id=63, 1025.33063pt x 453.19313pt>
+File: ../img//es2-1-somma.png Graphic file (type png)
+<use ../img//es2-1-somma.png>
+Package pdftex.def Info: ../img//es2-1-somma.png  used on input line 399.
+(pdftex.def)             Requested size: 416.83289pt x 184.24063pt.
+ [12 <../img//es2-1-somma.png>]
+<../img//es2-2power.png, id=69, 1027.58907pt x 453.94594pt>
+File: ../img//es2-2power.png Graphic file (type png)
+<use ../img//es2-2power.png>
+Package pdftex.def Info: ../img//es2-2power.png  used on input line 421.
+(pdftex.def)             Requested size: 416.83289pt x 184.13802pt.
+ [13 <../img//es2-2power.png>]
+<../img//es2-3-carica.png, id=74, 1025.33063pt x 453.19313pt>
+File: ../img//es2-3-carica.png Graphic file (type png)
+<use ../img//es2-3-carica.png>
+Package pdftex.def Info: ../img//es2-3-carica.png  used on input line 449.
+(pdftex.def)             Requested size: 375.14705pt x 165.81174pt.
+<../img//es2-3-scarica.png, id=75, 1025.33063pt x 453.19313pt>
+File: ../img//es2-3-scarica.png Graphic file (type png)
+<use ../img//es2-3-scarica.png>
+Package pdftex.def Info: ../img//es2-3-scarica.png  used on input line 455.
+(pdftex.def)             Requested size: 375.14705pt x 165.81174pt.
+ [14 <../img//es2-3-carica.png> <../img//es2-3-scarica.png>]
+Overfull \hbox (10.03099pt too wide) in paragraph at lines 463--463
+[]\OT1/cmr/bx/n/12 Ripetere il pun-to 2.3 di-men-sio-nan-do tut-ti i tran-si-st
+or con W=6.4$\OML/cmm/m/it/12 $\OT1/cmr/bx/n/12 m,
+ []
+
+<../img//es2-4-carica.png, id=80, 1025.33063pt x 453.19313pt>
+File: ../img//es2-4-carica.png Graphic file (type png)
+<use ../img//es2-4-carica.png>
+Package pdftex.def Info: ../img//es2-4-carica.png  used on input line 476.
+(pdftex.def)             Requested size: 375.14705pt x 165.81174pt.
+<../img//es2-4-scarica.png, id=82, 1025.33063pt x 453.19313pt>
+File: ../img//es2-4-scarica.png Graphic file (type png)
+<use ../img//es2-4-scarica.png>
+Package pdftex.def Info: ../img//es2-4-scarica.png  used on input line 482.
+(pdftex.def)             Requested size: 375.14705pt x 165.81174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--486
+
+ []
+
+[15 <../img//es2-4-carica.png> <../img//es2-4-scarica.png>] (report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4151 strings out of 480224
+ 57519 string characters out of 2880103
+ 365249 words of memory out of 3000000
+ 20650 multiletter control sequences out of 15000+200000
+ 547911 words of font info for 77 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,11n,66p,648b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\
+Users\giaco\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk
+><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/giaco/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/giaco/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/giaco/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/giaco/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users
+/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+12.pfb><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr5.pfb><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr7.pfb><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/giaco/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/giaco/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/giaco/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/giaco/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users
+/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+<C:/Users/giaco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+tt9.pfb>
+Output written on report.pdf (15 pages, 490368 bytes).
+PDF statistics:
+ 154 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

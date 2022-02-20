@@ -1,0 +1,16 @@
+* C:\Users\giaco\Desktop\es1FdE\spice\esercizio2mod.asc
+R1 N2 N1 10k
+R2 N3 N4 65230
+Rp1 N3 Np 1871.8
+Rp2 0 Np 10k
+* Generatori
+V1 N1 0 -15V
+V2 N4 0 15V
+* Generatore di corrente "pilotato" dal parametro temperatura
+I1 Np N2 {temperatura*1u}
+Eopamp Vo 0 0 N3 1000000
+Rf Vo N3 11871.8
+* Richiesta di analisi sulla variazione del parametro temperatura
+.dc param temperatura 273 373 1
+.backanno
+.end

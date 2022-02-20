@@ -1,0 +1,19 @@
+* Esercizio 1
+V1 N1 0 1
+* ramo dx parallelo
+D2 N1 N2 D
+R2 N2 N3 10
+V2 N3 Vx 2V
+* ramo zener
+V3 N5 0 2V
+DZ Vx N5 DZ
+* ramo sx parallelo
+R3 N1 N4 10
+D1 Vo N4 D
+R4 Vo Vx 25
+R1 0 Vo 25
+.dc V1 -12 12 0.1
+.model D D RON=0 VFWD=0.5
+.model DZ D VFWD=1.0V VREV=7V
+.backanno
+.end
